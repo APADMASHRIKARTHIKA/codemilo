@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class alpha {
+public class alphabet {
 	public static void main(String[] args)
 	{
 		char ch;
